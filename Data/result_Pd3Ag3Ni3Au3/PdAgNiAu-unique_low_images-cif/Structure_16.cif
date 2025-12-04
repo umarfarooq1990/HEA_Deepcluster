@@ -1,0 +1,37 @@
+data_image0
+_chemical_formula_structural       Ag3Au3Ni3Pd3
+_chemical_formula_sum              "Ag3 Au3 Ni3 Pd3"
+_cell_length_a       30
+_cell_length_b       30
+_cell_length_c       30
+_cell_angle_alpha    90
+_cell_angle_beta     90
+_cell_angle_gamma    90
+
+_space_group_name_H-M_alt    "P 1"
+_space_group_IT_number       1
+
+loop_
+  _space_group_symop_operation_xyz
+  'x, y, z'
+
+loop_
+  _atom_site_type_symbol
+  _atom_site_label
+  _atom_site_symmetry_multiplicity
+  _atom_site_fract_x
+  _atom_site_fract_y
+  _atom_site_fract_z
+  _atom_site_occupancy
+  Ag  Ag1       1.0  0.46836  0.50445  0.39835  1.0000
+  Ag  Ag2       1.0  0.52928  0.43380  0.41106  1.0000
+  Ag  Ag3       1.0  0.40611  0.50144  0.46741  1.0000
+  Au  Au1       1.0  0.44100  0.42392  0.43204  1.0000
+  Au  Au2       1.0  0.43158  0.43193  0.52001  1.0000
+  Au  Au3       1.0  0.50335  0.39230  0.48770  1.0000
+  Ni  Ni1       1.0  0.45520  0.51226  0.54060  1.0000
+  Ni  Ni2       1.0  0.50939  0.44999  0.55217  1.0000
+  Ni  Ni3       1.0  0.49075  0.47600  0.47639  1.0000
+  Pd  Pd1       1.0  0.53736  0.52525  0.52469  1.0000
+  Pd  Pd2       1.0  0.47677  0.55751  0.47211  1.0000
+  Pd  Pd3       1.0  0.56897  0.45118  0.49169  1.0000
